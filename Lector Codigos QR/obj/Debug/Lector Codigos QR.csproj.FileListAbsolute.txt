@@ -1,0 +1,43 @@
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\bin\Debug\Lector Codigos QR.exe.config
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\bin\Debug\Lector Codigos QR.exe
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\bin\Debug\Lector Codigos QR.pdb
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.Controls.dll
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.Video.dll
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\bin\Debug\BarcodeLib.BarcodeReader.dll
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.dll
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.Imaging.dll
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.Math.dll
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.Controls.xml
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.Video.xml
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.xml
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.Imaging.xml
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.Math.xml
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\obj\Debug\Lector Codigos QR.csprojResolveAssemblyReference.cache
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\obj\Debug\Lector_Codigos_QR.Form1.resources
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\obj\Debug\Lector_Codigos_QR.Properties.Resources.resources
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\obj\Debug\Lector Codigos QR.csproj.GenerateResource.Cache
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\obj\Debug\Lector Codigos QR.exe
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\obj\Debug\Lector Codigos QR.pdb
+C:\Users\Neri\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\bin\Debug\Lector Codigos QR.exe.config
+C:\Users\Neri\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\obj\Debug\Lector Codigos QR.exe
+C:\Users\Neri\Dropbox\Projectos Visual C# 2012\Lector Codigos QR\Lector Codigos QR\obj\Debug\Lector Codigos QR.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Lector Codigos QR\Lector Codigos QR\bin\Debug\Lector Codigos QR.exe.config
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Lector Codigos QR\Lector Codigos QR\obj\Debug\Lector Codigos QR.exe
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Lector Codigos QR\Lector Codigos QR\obj\Debug\Lector Codigos QR.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Lector Codigos QR\Lector Codigos QR\bin\Debug\Lector Codigos QR.exe
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Lector Codigos QR\Lector Codigos QR\bin\Debug\Lector Codigos QR.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.dll
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.Imaging.dll
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.Math.dll
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.Controls.xml
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.Video.xml
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.xml
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.Imaging.xml
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Lector Codigos QR\Lector Codigos QR\bin\Debug\AForge.Math.xml
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Lector Codigos QR\Lector Codigos QR\obj\Debug\Lector Codigos QR.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Lector Codigos QR\Lector Codigos QR\obj\Debug\Lector_Codigos_QR.Form1.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Lector Codigos QR\Lector Codigos QR\obj\Debug\Lector_Codigos_QR.Properties.Resources.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Lector Codigos QR\Lector Codigos QR\obj\Debug\Lector Codigos QR.csproj.GenerateResource.Cache
